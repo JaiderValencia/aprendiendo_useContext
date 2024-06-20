@@ -3,7 +3,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Logo from './components/Logo'
 import Card from './components/Card'
-import { Counter } from './context/Counter'
+import { Counter } from './context/Counter.jsx'
 
 function App() {
 
